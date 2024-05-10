@@ -1,0 +1,28 @@
+[2024-05-10 18:52:54,575 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 01: Click to Register link
+[2024-05-10 18:52:55,961 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 02: input to First Name Textbox
+[2024-05-10 18:52:56,397 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 03: input to Last Name Textbox
+[2024-05-10 18:52:56,544 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 04: input to Email Textbox
+[2024-05-10 18:52:56,655 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 05: input to Password Textbox
+[2024-05-10 18:52:56,742 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 06: input to Confirm Password Textbox
+[2024-05-10 18:52:56,837 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 07: Click Register button
+[2024-05-10 18:52:57,579 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 08: Verify Success message
+[2024-05-10 18:52:57,696 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 09: Click Login link
+[2024-05-10 18:52:58,431 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 10: Click to Login link
+[2024-05-10 18:52:58,918 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 11: input to Email textbox
+[2024-05-10 18:52:59,035 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 12: input to Password textbox
+[2024-05-10 18:52:59,115 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 13: Click to Login button
+[2024-05-10 18:52:59,830 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 14: Verify My Account link display
+[2024-05-10 18:52:59,967 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 15: Click to Computer link
+[2024-05-10 18:53:00,438 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 16: Click to Desktops link
+[2024-05-10 18:53:00,970 INFO com.nopcommerce.user.Function_08_Order] - Pre-Condition - Step 17: Click to Name product
+[2024-05-10 18:53:01,711 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 01: selected processor dropdown
+[2024-05-10 18:53:01,828 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 02: selected Ram dropdown
+[2024-05-10 18:53:02,137 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 03: check HDD radio
+[2024-05-10 18:53:02,401 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 04: check OS radio
+[2024-05-10 18:53:02,730 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 05: check Software checkbox
+[2024-05-10 18:53:03,308 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 06: click to add to cart button
+[2024-05-10 18:53:03,556 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 07: verify message product just added to cart
+[2024-05-10 18:53:05,978 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 08: click to Shopping Cart link
+[2024-05-10 18:53:07,321 INFO com.nopcommerce.user.Function_08_Order] - Order_01 - Step 09: verify product info just added to cart
+[2024-05-10 18:53:07,425 INFO com.nopcommerce.user.Function_08_Order] - OS name = windows 10
+[2024-05-10 18:53:07,426 INFO com.nopcommerce.user.Function_08_Order] - Driver instance name = firefoxdriver: firefox on windows (7e4fd01b-0ccd-466a-a7a1-3d7409e95d58)
